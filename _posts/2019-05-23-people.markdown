@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "People"
+categories: people
+---
+
+A post about family
