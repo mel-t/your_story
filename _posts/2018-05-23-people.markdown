@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "People"
-categories: people
+categories: travel
 ---
 
 A post about family
