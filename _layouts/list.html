@@ -20,7 +20,7 @@
 layout: base
 ---
 
-{% assign posts = site.categories[page.slug] | default:site.tags[page.slug] | default:site.posts %}
+{% assign posts = site.categories[page.code] | default:site.posts %}
 
 {% if page.title.size > 0 %}
   <header>
@@ -38,6 +38,8 @@ layout: base
 
 <ul class="related-posts">
    {% for post in posts %}
+      {% if post.categories contains page.slug %}
       {% include components/post-list-item.html post=post format=list_entry %}
+      {% endif %}
    {% endfor %}
 </ul>

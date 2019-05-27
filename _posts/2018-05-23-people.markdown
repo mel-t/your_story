@@ -1,7 +1,0 @@
----
-layout: post
-title:  "People"
-categories: travel
----
-
-A post about family

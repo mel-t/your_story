@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Richard Tan
+title: Your Story
 # email: melissa.tan@meltingwaldo.com
 description:
   Stories for your grandchildren so they know about you and your life - where they came from.
@@ -63,25 +63,15 @@ lang:                  en
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Richard Tan
+  name:                Melissa Tan
   # email:               melissa.tan@meltingwaldo.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Life
-    url:               /life/
-  - title:             Personality
-    url:               /personality/
-  - title:             Growing Up
-    url:               /growing-up/
-  - title:             People
-    url:               /people/
-  - title:             Interests
-    url:               /interests/
-  - title:             Career
-    url:               /career/
+#  - title:             People
+#    url:               /people/
   - title:             Travel
     url:               /travel/
     
