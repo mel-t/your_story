@@ -2,9 +2,8 @@
 layout: list
 title:  People
 slug:   people
-code: rt953024
-permalink: /rt953024/people
-person: "Richard Tan"
+code: hw139185
+person: "Helen West"
 description: >
   Important people in my life.
 ---
