@@ -1,12 +1,12 @@
 <span class="sr-only">{{ site.data.strings.navigation | default:"Navigation" }}{{ site.data.strings.colon | default:":" }}</span>
 <ul>
   <li>
-    <a href= {{ page.code | append: "/people" | absolute_url }} 
+    <a href= {{ site.url | append: "/" | append: page.code | append: "/people.html" }} 
        class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
     >People</a>
   </li>
   <li>
-    <a href= {{ page.code | append: "/travel" | absolute_url }} 
+    <a href= {{ site.url | append: "/" | append: page.code | append: "/travel.html" }} 
        class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
     >Travel</a>
   </li>

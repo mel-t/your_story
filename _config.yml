@@ -52,7 +52,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url: https://your-story-melt.firebaseapp.com/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://your-story-melt.firebaseapp.com # the base hostname & protocol for your site, e.g. http://example.com
 
 lang:                  en
 

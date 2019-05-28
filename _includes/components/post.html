@@ -21,7 +21,7 @@
       {% assign category_start     = site.data.strings.category_start     | default:"in " %}  
       {% include components/tag-list.html tags=post.categories meta=site.featured_categories start_with=category_start separator=category_separator %}
       {% include components/tag-list.html tags=post.tags meta=site.featured_tags start_with=tag_start separator=tag_separator %}-->
-      in <a href={{ page.code | append: "/" | append: post.categories.[1] | absolute_url }} class="flip-title">{{ post.categories.[1] | capitalize }}</a>
+      in <a href={{ site.url | append: "/" | append: page.code | append: "/" | append: post.categories.[1] | append: ".html" }} class="flip-title">{{ post.categories.[1] | capitalize }}</a>
     </p>
 
     {% assign alt = false %}
