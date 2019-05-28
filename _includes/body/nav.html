@@ -1,12 +1,12 @@
 <span class="sr-only">{{ site.data.strings.navigation | default:"Navigation" }}{{ site.data.strings.colon | default:":" }}</span>
 <ul>
   <li>
-    <a href= {{ site.url | append: "/" | append: page.code | append: "/people.html" }} 
+    <a href= {{ '/' | append: page.code | append: "/people.html" }} 
        class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
     >People</a>
   </li>
   <li>
-    <a href= {{ site.url | append: "/" | append: page.code | append: "/travel.html" }} 
+    <a href= {{ '/' | append: page.code | append: "/travel.html" }} 
        class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
     >Travel</a>
   </li>
@@ -15,7 +15,7 @@
       {% assign url = node.url | default: node.href %}
       <li>
         <a
-          {% if forloop.first %}id="_navigation"{% endif %}
+          {% if forloop.first %}ixd="_navigation"{% endif %}
           href="{% include smart-url.txt url=url %}"
           class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
           {% if node.rel %}rel="{{ node.rel }}"{% endif %}
