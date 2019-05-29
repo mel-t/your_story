@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+{% assign posts = site.categories[page.code] | default:site.posts %}
+
+
+{% for chapter in site.data.chapters %}
+  <h3>{{ chapter.name | capitalize }}</h3>
+  <ul class="related-posts">
+     {% for post in posts %}
+        {% if post.categories contains chapter.name %}
+        {% include components/post-list-item.html post=post format=list_entry %}
+        {% endif %}
+     {% endfor %}
+  </ul>
+{% endfor %}

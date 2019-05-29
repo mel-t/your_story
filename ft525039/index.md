@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: complete-list
 title: Florence Tan
 slug: ft525039
 cover: true
