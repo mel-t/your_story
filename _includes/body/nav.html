@@ -6,6 +6,11 @@
     >People</a>
   </li>
   <li>
+    <a href= {{ '/' | append: page.code | append: "/career" }} 
+       class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
+    >Career</a>
+  </li>
+  <li>
     <a href= {{ '/' | append: page.code | append: "/travel" }} 
        class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
     >Travel</a>
