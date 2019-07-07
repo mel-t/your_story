@@ -2,8 +2,8 @@
 layout: list
 title:  Personality
 slug:   personality
-code: hw139185
-person: "Helen West"
+code: sw563668
+person: "Sue Walsham"
 description: >
   About me.
 ---

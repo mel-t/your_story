@@ -2,8 +2,8 @@
 layout: list
 title:  Interests
 slug:   interests
-code: hw139185
-person: "Helen West"
+code: nw909552
+person: "Nigel Walsham"
 description: >
   My favourite things.
 ---
