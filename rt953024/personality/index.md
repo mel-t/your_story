@@ -1,9 +1,9 @@
 ---
 layout: list
-title:  Career
-slug:   career
+title:  Personality
+slug:   personality
 code: rt953024
 person: "Richard Tan"
 description: >
-  My working life.
+  About me.
 ---

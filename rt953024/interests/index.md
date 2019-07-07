@@ -1,9 +1,9 @@
 ---
 layout: list
-title:  Career
-slug:   career
+title:  Interests
+slug:   interests
 code: rt953024
 person: "Richard Tan"
 description: >
-  My working life.
+  My favourite things.
 ---

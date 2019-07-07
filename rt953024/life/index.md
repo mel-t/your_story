@@ -1,9 +1,9 @@
 ---
 layout: list
-title:  Career
-slug:   career
+title:  Life
+slug:   life
 code: rt953024
 person: "Richard Tan"
 description: >
-  My working life.
+  The big picture.
 ---
