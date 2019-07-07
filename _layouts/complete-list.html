@@ -7,9 +7,10 @@ layout: page
 
 {% for chapter in site.data.chapters %}
   <h3>{{ chapter.name | capitalize }}</h3>
+  {% assign chapter_code = chapter.name | replace: " ", "_" %}
   <ul class="related-posts">
      {% for post in posts %}
-        {% if post.categories contains chapter.name %}
+        {% if post.categories contains chapter_code %}
         {% include components/post-list-item.html post=post format=list_entry %}
         {% endif %}
      {% endfor %}
