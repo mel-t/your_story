@@ -1,9 +1,29 @@
 <span class="sr-only">{{ site.data.strings.navigation | default:"Navigation" }}{{ site.data.strings.colon | default:":" }}</span>
 <ul>
   <li>
+    <a href= {{ '/' | append: page.code | append: "/life" }} 
+       class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
+    >Life</a>
+  </li>
+  <li>
+    <a href= {{ '/' | append: page.code | append: "/personality" }} 
+       class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
+    >Personality</a>
+  </li>
+  <li>
+    <a href= {{ '/' | append: page.code | append: "/growing_up" }} 
+       class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
+    >Growing Up</a>
+  </li>
+  <li>
     <a href= {{ '/' | append: page.code | append: "/people" }} 
        class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
     >People</a>
+  </li>
+  <li>
+    <a href= {{ '/' | append: page.code | append: "/interests" }} 
+       class="sidebar-nav-item{% if page.url contains url %} active{% endif %}"
+    >Interests</a>
   </li>
   <li>
     <a href= {{ '/' | append: page.code | append: "/career" }} 
