@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Friends"
+categories: ft525039 people
+code: ft525039
+person: "Florence Tan"
+---
+
+In the earlier years I kept in touch with my friends because we visited Singapore quite frequently. My school friends are living in Singapore and we keep in touch with letters and when I visited Singapore. Over the last couple of years we have lost touch because all of us are busy with extended family. Hopefully we will catch up in person when I next visit Singapore.
