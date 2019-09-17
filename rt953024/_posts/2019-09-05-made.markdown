@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Something I Made"
+categories: rt953024 interests
+code: rt953024
+person: "Richard Tan"
+---
+
+I was a Technical Teacher in Singapore in 1968 and had access to the facilities of a woodworking workshop.
+
+I designed and built a Hi-Fi Stereo Sound system. It consisted of an ensemble of 4 cabinets that were joined together and suspended by 5 rectangular frames. 
+
+This ensemble was completely made of "teak" wood stained with teak oil to enhance the natural matte finish.
+
+The 4 cabinets were used to house the following:
+1. Audio Amplifier
+2. Vinyl Record Turntable
+3. 12" Long Playing Vinyl Records with sliding louvre cover
+4. Tandberg Reel-to-Reel Tape Recorder
+
+The above configuration was then connected to 2 Whafedale speakers that were mounted vertically a third above the ground in a fibre-cement tube. The sound was then diffused by the placement of a hollow inverted metallic sphere on top of the 1.4 metre fibre cement tube.
+
+![Tandberg recorder](/images/rt953024/tandberg-recorder.jpg){:class="img-responsive"}
+
+*Example of a Tandberg Reel-to-Reel Tape recorder*

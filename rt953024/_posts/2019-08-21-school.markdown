@@ -1,0 +1,12 @@
+---
+layout: post
+title: "School"
+categories: rt953024 growing_up
+code: rt953024
+person: "Richard Tan"
+---
+
+My favourite subjects in high school were those that required visual and spatial imagination and the development of practical skills:
+* Geometrical and Building Drawing
+* Geometrical and Engineering Drawing
+* Woodwork

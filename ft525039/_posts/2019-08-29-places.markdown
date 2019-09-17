@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Places"
+categories: ft525039 growing_up
+code: ft525039
+person: "Florence Tan"
+---
+
+**Where I grew up**
+
+The neighborhood I grew up in was fantastic. Most of the neighbours were friendly and helpful. But my parents were very protective and didn't give us much freedom. Somehow we managed to mixed with the kids a lot, especially the ones we went to the same school as. I really enjoyed my time playing with them and going to school together as a kid.

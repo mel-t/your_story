@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "School"
+categories: ft525039 growing_up
+code: ft525039
+person: "Florence Tan"
+---
+
+My favourite subjects at high school were Mathematics and History. I really enjoyed them and got high marks in the exams.
