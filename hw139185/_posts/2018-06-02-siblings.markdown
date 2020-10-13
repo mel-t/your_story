@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Siblings - Growing Up"
+title:  "Siblings"
 categories: hw139185 people
 code: hw139185
 person: "Helen West"
